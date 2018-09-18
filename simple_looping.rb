@@ -22,8 +22,8 @@ end
 
 def while_iterator(number_of_times)
   while while_iterator == 4
-    puts "Welcome to Flatiron School's Web Development Course!"
-    counter += 10 
+    # puts "Welcome to Flatiron School's Web Development Course!"
+    # counter += 10 
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
   end 
