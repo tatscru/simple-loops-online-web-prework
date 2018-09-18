@@ -18,7 +18,7 @@ def times_iterator(number_of_times)
 #   4.times do 
 #     puts "Welcome to Flatiron School's Web Development Course!"
 #   end
-# end 
+end 
 
 def while_iterator(number_of_times)
   while while_iterator == 4
